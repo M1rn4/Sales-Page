@@ -3,7 +3,7 @@
 # Deploy website
 
 > You can found my website here:
- [https://m1rn4.github.io/Set-up-adn-mobile-first/](https://m1rn4.github.io/Sales-Page/)
+ [View Here](https://m1rn4.github.io/Sales-Page/)
 
 
 # Project Name
@@ -30,15 +30,15 @@ To get a local copy up and running follow these simple example steps.
 👤 **MIRNA**
 
 - GitHub: (https://github.com/M1rn4)
-- Twitter: (https://twitter.com/_AmpueroMirna)
-- LinkedIn: [Mirna](https://www.linkedin.com/in/mirna-ampuero-caro/)
+- Twitter: (https://twitter.com/mirnaampuero__)
+- LinkedIn: [Mirna](https://www.linkedin.com/in/mirnaampuero/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/M1rn4/Set-up-adn-mobile-first/issues).
+Feel free to check the [issues page](https://github.com/M1rn4/Sales-Pages/issues).
 
 ## Show your support
 
